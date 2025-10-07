@@ -1,0 +1,5 @@
+{
+  "name": "RIALO SNAKE GAME",
+  "description": "A classic snake game with a colorful twist and image obstacles. Navigate the snake to eat the food, grow longer, and avoid crashing into the walls, yourself, or the obstacles.",
+  "requestFramePermissions": []
+}
